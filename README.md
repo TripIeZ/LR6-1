@@ -39,3 +39,30 @@
 * git config --global usre.email polina.1009@yandex.ru
 * git clone https://github.com/PolyaLo/LR6
 * cd LR6   
+  
+  
+/*Добавление файл polyalo.txt через интерфейс GitHub*/
+  
+* git pull  
+* git log  
+* git log -2  
+* git checkout branch1  
+* git checkout master  
+* git merge branch1  
+  
+/*Устранение конфликта в git GUI*/
+    
+* git branch -d branch   
+    
+ /*изменение в файле polyalo.lo №1*/   
+   
+* git add polyalo.txt  
+* git commit -m "changes №1"  
+  
+
+ /*изменение в файле polyalo.lo №2*/   
+   
+* git add polyalo.txt  
+* git commit -m "changes №2"  
+* git reset --hard @~2  
+* git branch report
