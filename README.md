@@ -32,8 +32,9 @@
 Делаем «хард» откат коммита.  
 ![шаг 9](https://github.com/PolyaLo/LR6/blob/report/скрин/11.png?raw=true)  
 ### 10. Создание ветки  
-Создаем ветку report для отчёта.
-![шаг10](https://github.com/PolyaLo/LR6/blob/report/скрин/12.png?raw=true)  
+Создаем ветку report для отчёта.   
+![шаг10](https://github.com/PolyaLo/LR6/blob/report/скрин/12.png?raw=true )
+
 ## Логи команд:  
 *  git config --global user.name "4918 Лозовая П.Д."
 * git config --global usre.email polina.1009@yandex.ru
@@ -67,4 +68,5 @@
 * git reset --hard @~2  
 * git branch report
 ## История операций:  
-
+![история операций](https://github.com/PolyaLo/LR6/blob/report/скрин/13.png?raw=true)  
+Вывод:я изучила базовые возможности системы управления версиями, опыт работы с Git Api, опыт работы с локальным и удаленным репозиторием.  
