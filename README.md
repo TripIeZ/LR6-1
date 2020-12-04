@@ -66,3 +66,5 @@
 * git commit -m "changes №2"  
 * git reset --hard @~2  
 * git branch report
+## История операций:  
+
