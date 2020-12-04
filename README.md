@@ -4,4 +4,5 @@
 ## Ход работы:  
 ### 1. Настройка клиент git  
 Вводим имя пользователя - "4918 Лозовая П.Д." и и email - polina.1009@yandex.ru  
-![шаг 1] (https://github.com/PolyaLo/LR6/blob/report/1.png)    
+ ! [шаг 1] (https://github.com/PolyaLo/LR6/blob/report/1.png?raw=true)  
+ 
