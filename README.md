@@ -22,3 +22,20 @@
 ![шаг 6](https://github.com/PolyaLo/LR6/blob/report/скрин/6.png?raw=true)  
 ![шаг 6](https://github.com/PolyaLo/LR6/blob/report/скрин/7.png?raw=true)  
 ![шаг 6](https://github.com/PolyaLo/LR6/blob/report/скрин/8.png?raw=true)  
+### 7. Удаление побочной ветки  
+Удаляем побочную ветку после успешного слияния.
+![шаг 7](https://github.com/PolyaLo/LR6/blob/report/скрин/9.png?raw=true)  
+### 8. Фиксирование изменений  
+Делаем изменения в файле polyalo.txt и зафиксируем их, оставляя комментарии два раза.  
+![шаг 8](https://github.com/PolyaLo/LR6/blob/report/скрин/10.png?raw=true)  
+### 9. Откат коммита  
+Делаем «хард» откат коммита.  
+![шаг 9](https://github.com/PolyaLo/LR6/blob/report/скрин/11.png?raw=true)  
+### 10. Создание ветки  
+Создаем ветку report для отчёта.
+![шаг10](https://github.com/PolyaLo/LR6/blob/report/скрин/12.png?raw=true)  
+## Логи команд:  
+*  git config --global user.name "4918 Лозовая П.Д."
+* git config --global usre.email polina.1009@yandex.ru
+* git clone https://github.com/PolyaLo/LR6
+* cd LR6   
